@@ -1,7 +1,7 @@
 # redz Library V4
 ## Library loadstring
 ```lua
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Venom-devX/RedzLibrary/main/redzui.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/SrDark222/RedzLibrary/main/redzui.lua"))()
 ```
 
 library functions
